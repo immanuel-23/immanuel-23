@@ -12,4 +12,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-[![Immanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=immanuel-23)](https://github.com/immanuel-23github-readme-stats)
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=immanuel-23)](https://github.com/immanuel-23github-readme-stats" 
+       alt="Immanuel's stats" />
+</p>
+
+
+[![Immanuel's GitHub stats]()
