@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @immanuel-23
-- 👀 Skill :Core Java,Junit,Design Patterns, Solid Principles
+- 👀 Skill :Advance Java,Junit,Design Patterns, Solid Principles,JavaScript,Spring MVC,Hibernate
 
 <!---
 immanuel-23/immanuel-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
